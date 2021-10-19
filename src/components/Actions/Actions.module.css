@@ -1,0 +1,25 @@
+.actions button {
+	font: inherit;
+	padding: 0.5rem 1rem;
+	/* border-radius: 14px; */
+	/* color: #8ac926; */
+	background-color: transparent;
+	border: 1px solid white;
+	margin: 1rem 0 1rem 0.5rem;
+}
+
+.actions button:hover,
+.actions button:active {
+	background-color: white;
+	border-color: white;
+}
+.actions button:last-of-type {
+	color: #999;
+	border: 1px solid #999;
+}
+.actions button:last-of-type:hover,
+.actions button:last-of-type:active {
+	background-color: #999;
+	border-color: #999;
+	color: white;
+}

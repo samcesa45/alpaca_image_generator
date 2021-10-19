@@ -1,0 +1,28 @@
+.button {
+	font: inherit;
+	padding: 0.5rem 1rem;
+	margin-left: 0.2rem;
+	margin-bottom: 0.5rem;
+	border-radius: 22px;
+	color: #0096c7;
+	background-color: transparent;
+	border: 1px solid #0096c7;
+}
+
+.selected {
+	font: inherit;
+	padding: 0.5rem 1rem;
+	margin-left: 0.2rem;
+	margin-bottom: 0.5rem;
+	border-radius: 22px;
+	background-color: #023e8a;
+	border: 1px solid #023e8a;
+	color: white;
+}
+
+.button:hover,
+.button:active {
+	background-color: #023e8a;
+	border-color: #023e8a;
+	color: white;
+}
