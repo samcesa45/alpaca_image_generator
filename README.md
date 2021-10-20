@@ -1,3 +1,6 @@
+## View Demo [https://samcesa45.github.io/alpaca_image_generator/](https://samcesa45.github.io/alpaca_image_generator/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
